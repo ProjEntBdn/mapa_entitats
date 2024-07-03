@@ -1,6 +1,6 @@
 # Índex
 
--   [Introducció](#introduccio)
+-   [Introducció](#introducció)
 -   [Contacte](#contacte)
 -   [Com utilitzar el mapa](#com-utilitzar-el-mapa)
 -   [Evolució del projecte](#evolucio-del-projecte)
