@@ -3,11 +3,11 @@
 -   [Introducció](#introducció)
 -   [Contacte](#contacte)
 -   [Com utilitzar el mapa](#com-utilitzar-el-mapa)
--   [Evolució del projecte](#evolucio-del-projecte)
--   [Fonts d'informació](#fonts-dinformacio)
+-   [Evolució del projecte](#evolució-del-projecte)
+-   [Fonts d'informació](#fonts-dinformació)
 -   [Criteris per afegir entitats](#criteris-per-afegir-entitats)
 -   [Fitxa de les entitats](#fitxa-de-les-entitats)
--   [Fiabilitat de la informació](#fiabilitat-de-la-informacio)
+-   [Fiabilitat de la informació](#fiabilitat-de-la-informació)
 
 # Introducció
 
